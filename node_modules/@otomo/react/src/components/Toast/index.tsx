@@ -17,7 +17,6 @@ export function Toasting({open, duration, onOpenChange, title, content, ...props
             onOpenChange={onOpenChange}
             defaultOpen={true}
             duration={duration}
-            {...props}
           >
             <div>
               <ToastTitle>
