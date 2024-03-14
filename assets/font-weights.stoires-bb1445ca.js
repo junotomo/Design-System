@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-2ef3df91.js";import{M as i}from"./chunk-HLWAVYOI-cbd7e022.js";import{T as r}from"./TokensGrid-09b5c0f9.js";import{u as s}from"./index-e8c3912b.js";import"./index-e03f90b5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-82fec9c6.js";import"../sb-preview/runtime.js";import"./react-18-a312ee67.js";import"./index-ac92abf8.js";import"./chunk-EIRT5I3Z-a2c0b74c.js";import"./index-11d98b33.js";import"./extends-98964cd2.js";import"./index-f889f612.js";import"./index-356e4a49.js";function e(n){const o=Object.assign({h1:"h1",p:"p"},s(),n.components);return t.jsxs(t.Fragment,{children:[t.jsx(i,{title:"Tokens/Font Weights"}),`
+`,t.jsx(o.h1,{id:"font-weights",children:"Font Weights"}),`
+`,t.jsx(o.p,{children:"Design System do Ignite."}),`
+`,t.jsx(r,{tokens:spafontWeightsce})]})}function k(n={}){const{wrapper:o}=Object.assign({},s(),n.components);return o?t.jsx(o,Object.assign({},n,{children:t.jsx(e,n)})):e(n)}export{k as default};
